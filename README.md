@@ -74,4 +74,4 @@ A Flutter application that simulates a basic **e-commerce experience** with prod
 
 ## 🎥 Demo Video
 
-[![Watch the demo](media/demo-cover.png)](media/demo.mp4)
+[📽️ Watch the demo](media/demo.mp4)
