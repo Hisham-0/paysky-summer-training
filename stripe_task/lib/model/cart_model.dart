@@ -8,6 +8,7 @@ class CartModel extends ChangeNotifier {
     // [ id , name ,description , image_url , price ]
   ];
 
+  // get the API with http
   Future<void> getPost() async {
     try {
       final url = Uri.parse(
