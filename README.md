@@ -71,3 +71,7 @@ A Flutter application that simulates a basic **e-commerce experience** with prod
 3.  run the app with Emulator or on your android phone (phone in Developer mode).
 
 ---
+
+## 🎥 Demo Video
+
+[![Watch the demo](media/demo-cover.png)](media/demo.mp4)
