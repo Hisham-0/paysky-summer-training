@@ -1,6 +1,6 @@
 # Paysky Summer Training
 
-## 📌 Task 1 – Flutter E-Commerce Application
+## 📌 Flutter E-Commerce Application
 
 A Flutter application that simulates a basic **e-commerce experience** with product browsing, cart management, and Stripe payment integration.
 
