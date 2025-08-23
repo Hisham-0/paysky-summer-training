@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:stripe_task/components/products_items.dart';
-import 'package:stripe_task/model/cart_model.dart';
-import 'package:stripe_task/pages/cart_page.dart';
+import 'package:DemoShop/components/products_items.dart';
+import 'package:DemoShop/model/cart_model.dart';
+import 'package:DemoShop/pages/cart_page.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:stripe_task/pages/home_page.dart';
+import 'package:DemoShop/pages/home_page.dart';
 
 class IntroPage extends StatelessWidget {
   const IntroPage({super.key});

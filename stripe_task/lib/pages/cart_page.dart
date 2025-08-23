@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-import 'package:stripe_task/model/cart_model.dart';
-import 'package:stripe_task/model/stripe_service.dart';
+import 'package:DemoShop/model/cart_model.dart';
+import 'package:DemoShop/model/stripe_service.dart';
 
 class CartPage extends StatelessWidget {
   const CartPage({super.key});
